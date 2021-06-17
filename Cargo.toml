@@ -1,0 +1,14 @@
+[package]
+name = "winit-fullscreen"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+description = "Adds a method to winit::window::Window to toggle fullscreen"
+homepage = "https://github.com/Cthutu/winit-fullscreen"
+repository = "https://github.com/Cthutu/winit-fullscreen"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+winit = "0.25"
