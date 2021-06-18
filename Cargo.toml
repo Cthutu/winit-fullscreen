@@ -1,6 +1,6 @@
 [package]
 name = "winit-fullscreen"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2018"
 license = "MIT"
 description = "Adds a method to winit::window::Window to toggle fullscreen"
